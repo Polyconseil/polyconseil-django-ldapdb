@@ -26,7 +26,7 @@ def get_version(package_name):
     return '0.1.0'
 
 
-PACKAGE = 'django-ldapdb'
+PACKAGE = 'polyconseil-django-ldapdb'
 PYPACKAGE = 'ldapdb'
 
 
